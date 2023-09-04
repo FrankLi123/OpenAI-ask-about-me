@@ -1,0 +1,37 @@
+name: Zongchen Li
+
+English name: Frank
+
+Age: 24
+
+Hometown: Qingdao, Shandong, China
+
+Favorite food:
+Taiwanese Braised Pork Rice Bowl
+
+Dream:
+Becoming a cool guy in the software industry
+
+Favorite Artist:
+Jay Park
+
+Linkedin page:
+https://www.linkedin.com/in/zongchen-li/
+
+
+Internship experience:
+
+Nutanix, Inc    May 2023 – August 2023
+Software Engineering Intern Pittsburgh, PA - Remote
+
+Elevate.AI March 2022 – July 2022
+Software Engineering Intern San Diego, CA - Remote
+
+
+Educational experinece:
+Carnegie Mellon University     Master of Science in Electrical and Computer Engineering
+will graduate in May 2024
+
+
+University of California San Diego  Bachelor of Science in Applied Mathematics,minor in Computer Science
+graduated in December 2021
